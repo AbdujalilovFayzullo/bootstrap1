@@ -1,0 +1,18 @@
+header{
+    margin-top: 15px;
+}
+.border__span{
+    border: 1px solid grey;
+    max-width: 100%;
+    display: block;
+    margin-top: 10px;
+}
+.btn{
+    border-radius: 30px !important;
+}
+.footer__block{
+    margin: 0 auto !important;
+}
+.footer__text{
+    margin: 0 auto !important;
+}
